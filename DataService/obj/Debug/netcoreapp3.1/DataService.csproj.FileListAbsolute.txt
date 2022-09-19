@@ -1,0 +1,12 @@
+F:\Projects\HRSystemDemo\DataService\bin\Debug\netcoreapp3.1\DataService.deps.json
+F:\Projects\HRSystemDemo\DataService\bin\Debug\netcoreapp3.1\DataService.dll
+F:\Projects\HRSystemDemo\DataService\bin\Debug\netcoreapp3.1\DataService.pdb
+F:\Projects\HRSystemDemo\DataService\obj\Debug\netcoreapp3.1\DataService.csprojAssemblyReference.cache
+F:\Projects\HRSystemDemo\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfoInputs.cache
+F:\Projects\HRSystemDemo\DataService\obj\Debug\netcoreapp3.1\DataService.AssemblyInfo.cs
+F:\Projects\HRSystemDemo\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CoreCompileInputs.cache
+F:\Projects\HRSystemDemo\DataService\obj\Debug\netcoreapp3.1\DataService.dll
+F:\Projects\HRSystemDemo\DataService\obj\Debug\netcoreapp3.1\DataService.pdb
+F:\Projects\HRSystemDemo\DataService\bin\Debug\netcoreapp3.1\DataAccess.dll
+F:\Projects\HRSystemDemo\DataService\bin\Debug\netcoreapp3.1\DataAccess.pdb
+F:\Projects\HRSystemDemo\DataService\obj\Debug\netcoreapp3.1\DataService.csproj.CopyComplete
